@@ -1,3 +1,6 @@
+# Files
+/results/*.rda
+
 # History files
 .Rhistory
 .Rapp.history
